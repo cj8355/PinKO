@@ -1,6 +1,6 @@
 # PinKO
 
-Link: https://aqueous-brushlands-28666.herokuapp.com
+Link: https://mysterious-gorge-30415.herokuapp.com/
 
 ## Description
 PinKO is a photo sharing platform that focuses on clothing. PinKO also has a clothing store in which users can make purchases through the use of PayPal. 
