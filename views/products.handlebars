@@ -1,0 +1,28 @@
+{{#each dbProductData as |product|}}
+  <div class="card container">
+    <img src={{format_source product.parentFolder product.filename}} />
+
+    <p>{{product.product_name}}</p>
+
+    <p>${{product.price}}</p>
+
+   
+
+    {{!-- <p>{{product.category_id}}</p> --}}
+
+    {{!-- <p>Size - {{product.size}}</p> --}}
+
+    {{!-- <p>{{product.parentFolder}}</p> --}}
+
+    <p>Gender: {{product.gender}}</p>
+
+    {{!-- <button>Add to cart</button> --}}
+
+   <nav>
+     <a href="/checkout"><button>Add to cart</button></a>
+    </nav>
+
+  </div>
+{{/each}}
+
+
