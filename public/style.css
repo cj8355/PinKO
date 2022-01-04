@@ -331,3 +331,11 @@ h2 {
   #editBtn {
     display: inline;
   }
+
+  #backgroundimage {
+    background-image: url('/Modals/abt2.jpeg');
+    /* width: 20px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    }
