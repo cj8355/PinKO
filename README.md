@@ -5,6 +5,9 @@ Link: https://mysterious-gorge-30415.herokuapp.com/
 ## Description
 PinKO is a photo sharing platform that focuses on clothing. PinKO also has a clothing store in which users can make purchases through the use of PayPal. 
 
+![ScreenShot](./PinKO_IMG1.JPG)
+![ScreenShot](./PinKO_IMG2.JPG)
+
 ## Table of Contents
 
 - [Installation](#installation)
